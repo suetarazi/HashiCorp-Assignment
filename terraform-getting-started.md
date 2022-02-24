@@ -84,7 +84,7 @@ $ terraform apply
 ```
 Type `yes` and hit ENTER if you see a message at the bottom of the output asking for confirmation. 
 
-The `apply` command may take up to a few minutes to run and will display a message indicating that the resource was created.
+The `apply` command may take a few minutes to run and will display a message indicating that the resource was created when done.
 
 ```shell
 
